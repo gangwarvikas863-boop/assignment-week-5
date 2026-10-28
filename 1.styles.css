@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    font-size:38px;
+}
+.card{
+    background-color: #f1f1f1;
+    border: radius 12px;
+}
+#hero{
+    background: #3159e3;
+    color:white;
+}
+//*--universal selector
+  h1-- element selector
+  .card--class selector
+  #hero--id selector
